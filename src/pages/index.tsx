@@ -38,7 +38,7 @@ export default function Home() {
       </Head>
 
       <main className="flex flex-col items-center justify-center p-4">
-        <h1 className="text-4xl font-bold text-gray-800 mt-10 mb-4">Welcome to Pasona</h1>
+        <h1 className="text-4xl font-bold text-gray-800 mt-10 mb-4">Welcome to Socify</h1>
         <p className="text-xl text-gray-600 text-center max-w-md">
           The marketplace for creator tokens. Connect with your favorite creators in a whole new way.
         </p>
